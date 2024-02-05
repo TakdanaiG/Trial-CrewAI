@@ -100,3 +100,14 @@ print(result)
 
 
 ```
+
+Video
+
+---
+
+for more details
+
+<a href="https://youtu.be/xRhMbdppa_4" target="_blank">
+  <img src="https://img.youtube.com/vi/xRhMbdppa_4/0.jpg" alt="Video Thumbnail" width="480" height="360">
+</a>
+
