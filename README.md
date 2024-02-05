@@ -1,6 +1,6 @@
 # Trial-CrewAI
 
-I'm testing Crew AI by putting together a team of AI agents to work as content writers. My goal is to find and describe 10 scary places worldwide in 2023. Here's my AI agents team:
+I'm testing Crew AI by putting together a team of AI agents to work as content writers. My goal is to find and describe 10 scary places worldwide in 2023. Here's my AI agents team (You can add as much as you want.):
 
 - Master Ghost Hunter
 - Senior Writer content
