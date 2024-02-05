@@ -100,10 +100,33 @@ print(result)
 
 
 ```
+---
+# Output
 
-Video
+Task output: **10 Eerie Places That Will Haunt Your Dreams:**
+
+1. **Houska Castle, Czech Republic:** Descend into the abyss of Houska Castle, built upon a portal to the underworld. Unearthly whispers echo through its halls, and the very air crackles with malevolent energy. Dare you venture into the gateway of Hell?
+
+2. **The Winchester Mystery House, San Jose, California:** Unravel the enigma of the Winchester Mystery House, a labyrinth of bizarre architecture and restless spirits. Each creaking staircase and hidden passageway conceals a tragic tale of those slain by Winchester rifles. Can you unravel the mystery before the ghosts claim you too?
+
+3. **The Tower of London, London, England:** Walk the blood-soaked grounds of the Tower of London, where the specter of Anne Boleyn still roams. Her haunting cries reverberate through the centuries, seeking justice for her untimely demise. Will you become her next victim?
+
+4. **Poveglia Island, Venice, Italy:** Embark on a chilling journey to Poveglia Island, a forsaken isle shrouded in darkness. As you step ashore, the whispers of tormented souls fill the air. Can you withstand the malevolent forces that lurk beneath the surface?
+
+5. **The Aokigahara Forest, Japan:** Venture into the depths of the Aokigahara Forest, known as the "Suicide Forest." As you tread through its dense undergrowth, the spirits of the departed whisper their tragic tales. Will you succumb to their despair or find a way to escape their clutches?
+
+6. **The Catacombs of Paris, France:** Descend into the subterranean labyrinth of the Catacombs of Paris, where millions of skeletal remains lie in eternal rest. The air hangs heavy with the scent of decay as you navigate the maze-like tunnels. Can you find your way out before the spirits of the dead claim you?
+
+7. **The Island of the Dolls, Mexico:** Journey to the Island of the Dolls, a haunting haven where hundreds of mutilated dolls hang from the trees. Their lifeless eyes seem to follow your every move, their porcelain faces contorted in eternal agony. Will you dare to venture into this realm of darkness?
+
+8. **The Lizzie Borden House, Fall River, Massachusetts:** Step inside the infamous Lizzie Borden House, where a gruesome double murder took place in 1892. The spirits of Lizzie and her victims are said to roam the halls, seeking vengeance for the unspeakable crime that occurred within these walls. Can you uncover the truth behind the Borden murders before it consumes you?
+
+9. **The Waverly Hills Sanatorium, Louisville, Kentucky:** Explore the abandoned Waverly Hills Sanatorium, once a haven for tuberculosis patients and now a hotbed of paranormal activity. As you roam the dilapidated corridors, you'll hear disembodied voices, catch glimpses of shadowy figures, and feel the chilling presence of the restless souls who still linger within.
+
+10. **The Edinburgh Castle, Scotland:** Unravel the dark secrets of Edinburgh Castle, a fortress steeped in bloodshed and intrigue. From the ghostly bagpiper who haunts the ramparts to the vengeful spirits of prisoners who perished within its walls, the castle's past comes alive after dark. Will you dare to venture into its haunted chambers and uncover the chilling tales that lie in wait?
 
 ---
+# Video
 
 for more details
 
