@@ -130,7 +130,6 @@ Task output: **10 Eerie Places That Will Haunt Your Dreams:**
 
 for more details
 
-<a href="[https://youtu.be/xRhMbdppa_4](https://youtu.be/afWFlaSvmC0?si=L3w_5AM1NRI8VVO0)" target="_blank">
-  <img src="[https://img.youtube.com/vi/xRhMbdppa_4](https://youtu.be/afWFlaSvmC0?si=L3w_5AM1NRI8VVO0)/Present.jpg" alt="Video Thumbnail" width="480" height="360">
-</a>
+[![Click to watch the video](http://img.youtube.com/vi/afWFlaSvmC0/0.jpg)](https://youtu.be/afWFlaSvmC0?si=L3w_5AM1NRI8VVO0)
+
 
