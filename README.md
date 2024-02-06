@@ -7,6 +7,11 @@ I'm testing Crew AI by putting together a team of AI agents to work as content w
 
 ---
 
+# API
+you can get API geimini pro for free right here
+
+- https://ai.google.dev/
+
 # Code Here
 
 ```python
